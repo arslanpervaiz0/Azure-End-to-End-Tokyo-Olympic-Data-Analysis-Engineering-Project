@@ -1,7 +1,7 @@
 # Azure-End-to-End-Tokyo-Olympic-Data-Engineering-Project
 This project demonstrates a complete end-to-end data engineering pipeline using the Tokyo Olympic dataset on Microsoft Azure. The objective is to ingest, transform, analyze, and query Olympic data using modern cloud data engineering tools.
 
-##Project Overview
+## Project Overview
 In this project, I built a scalable data pipeline that:
 
 #### 1. Ingests Olympic datasets using Azure Data Factory
